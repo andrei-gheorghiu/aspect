@@ -102,3 +102,8 @@ wp-includes/
 /sitemap.xml
 /sitemap.xml.gz
 /wp-content/themes/enfold/
+/_ww/
+/GruntFile.js
+/package.json
+/wp-content/themes/aspect/s.scss
+/wp-content/plugins/enable-media-replace/
