@@ -1,0 +1,14 @@
+/*
+ Theme Name:   Aspect Theme
+ Theme URI:    http://localhost/aspect/
+ Description:  Theme for Aspect website
+ Author:       Andrei Gheorghiu
+ Author URI:   http://websiter.ro
+ Template:     enfold
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         responsive-layout, accessibility-ready
+ Text Domain:  aspect
+*/
+@import url('s.css');
